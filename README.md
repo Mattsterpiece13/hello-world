@@ -1,3 +1,2 @@
-# hello-world
-welcome humans
-I'm a security integrator. I mainly work about 40% in a sales role and 60% in an install and management role. I love to work with electronics as a direct result of the technology Im constantly exposed to in my work environment. I work with intrusion, cctv, access control, sound, intercoms and smart homes on a professional level and diy arduino, raspberry pi's on an amatuer level. 
+# Yo!
+I've decided to change career paths into the hopes of developing middleware and software development as well as host/ build websites. Currently working on learning HTML, CSS, Javascript for front end web development. 
